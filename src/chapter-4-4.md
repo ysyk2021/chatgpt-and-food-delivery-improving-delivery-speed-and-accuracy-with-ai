@@ -3,11 +3,6 @@ Case Studies on ChatGPT-Based Food Delivery
 
 In this chapter, we will provide an introduction to ChatGPT and examine case studies of its use in the food delivery industry. ChatGPT is a language model developed by OpenAI that has revolutionized natural language processing (NLP) and opened up new possibilities for enhancing customer experience in various industries, including food delivery.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is an advanced NLP model that can generate human-like responses to text-based queries. It is capable of understanding context and generating coherent, relevant responses to complex questions. ChatGPT has been used in a wide range of applications, including chatbots, virtual assistants, and customer service automation.
-
 Case Studies on ChatGPT-Based Food Delivery
 -------------------------------------------
 

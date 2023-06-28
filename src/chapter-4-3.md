@@ -3,11 +3,6 @@ Advantages of Using ChatGPT in Food Delivery
 
 In this chapter, we will introduce ChatGPT and discuss the advantages of using ChatGPT in food delivery services.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is a natural language processing technology that uses machine learning algorithms to generate human-like responses to user queries. It has been trained on vast amounts of data and is capable of generating responses that are contextually relevant and accurate.
-
 Advantages of Using ChatGPT in Food Delivery
 --------------------------------------------
 
