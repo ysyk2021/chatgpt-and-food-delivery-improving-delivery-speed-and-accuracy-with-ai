@@ -1,5 +1,4 @@
-Types of Chatbots Used in Food Delivery
-====================================================================================
+
 
 In this chapter, we will explore the different types of chatbots used in food delivery services. Chatbots can provide a range of benefits to food delivery services, including improved delivery speed and accuracy, enhanced customer experience, and increased operational efficiency.
 

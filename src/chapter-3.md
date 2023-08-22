@@ -1,5 +1,4 @@
-Chapter 2: Chatbots and AI in Food Delivery
-===========================================
+
 
 In this chapter, we will delve into the subject of chatbots and AI in food delivery. We will provide an overview of chatbots and AI in food delivery, explore their advantages, discuss the types of chatbots used in food delivery, and examine some challenges and limitations of using chatbots in food delivery.
 

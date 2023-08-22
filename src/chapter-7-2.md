@@ -1,5 +1,4 @@
-The Future of Chatbots and AI in Food Delivery
-===========================================================================================================================
+
 
 In this chapter, we will discuss the future of chatbots and AI in food delivery. The following are some potential developments and advancements that could shape the future of this industry:
 

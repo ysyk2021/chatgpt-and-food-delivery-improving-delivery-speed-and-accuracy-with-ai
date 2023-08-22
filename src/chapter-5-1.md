@@ -1,5 +1,4 @@
-How ChatGPT Works in Food Delivery
-=================================================================================
+
 
 In this chapter, we will explore how ChatGPT can improve the food delivery experience by delving into how it works in food delivery.
 

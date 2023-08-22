@@ -1,5 +1,4 @@
-An Overview of Chatbots and AI in Food Delivery
-============================================================================================
+
 
 In this chapter, we will provide an overview of chatbots and AI in the context of food delivery services. We will explore the different types of chatbots and AI used in food delivery, their capabilities, and their applications.
 

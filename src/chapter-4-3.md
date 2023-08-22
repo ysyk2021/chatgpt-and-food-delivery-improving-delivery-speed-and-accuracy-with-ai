@@ -1,5 +1,4 @@
-Advantages of Using ChatGPT in Food Delivery
-================================================================================
+
 
 In this chapter, we will introduce ChatGPT and discuss the advantages of using ChatGPT in food delivery services.
 

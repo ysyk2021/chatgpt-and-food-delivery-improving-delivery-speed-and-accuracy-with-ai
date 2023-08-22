@@ -1,5 +1,4 @@
-Chapter 1: Understanding Food Delivery
-======================================
+
 
 In this chapter, we will provide an overview of food delivery, its history and evolution, the types of food delivery services used today, and the limitations and challenges faced by the industry.
 

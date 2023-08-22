@@ -1,5 +1,4 @@
-Limitations and Challenges of Food Delivery
-===================================================================================
+
 
 In this chapter, we will explore the limitations and challenges of food delivery services. While food delivery has become increasingly popular in recent years, it is not without its limitations and challenges.
 

@@ -1,5 +1,4 @@
-Types of Food Delivery Services Used Today
-==================================================================================
+
 
 In this chapter, we will explore the different types of food delivery services used today. From traditional takeout to modern app-based delivery services, there are a variety of options available to consumers.
 

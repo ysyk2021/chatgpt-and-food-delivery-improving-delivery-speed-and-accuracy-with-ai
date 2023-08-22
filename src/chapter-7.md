@@ -1,5 +1,4 @@
-Chapter 6: Future Trends and Directions in Chatbots and AI in Food Delivery
-===========================================================================
+
 
 In this chapter, we will discuss the future trends and directions of chatbots and AI in food delivery. We will also explore the potential opportunities and challenges that arise with these technologies.
 

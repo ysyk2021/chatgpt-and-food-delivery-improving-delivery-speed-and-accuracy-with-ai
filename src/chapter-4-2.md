@@ -1,5 +1,4 @@
-The Features of ChatGPT
-===========================================================
+
 
 In this chapter, we will discuss the features of ChatGPT, a natural language processing technology that has been used in various applications to generate human-like responses to user queries.
 

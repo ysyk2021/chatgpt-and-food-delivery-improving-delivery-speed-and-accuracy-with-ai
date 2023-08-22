@@ -1,5 +1,4 @@
-What is Food Delivery?
-==============================================================
+
 
 In this chapter, we will provide an overview of what food delivery is and how it works. Food delivery is the process of delivering ready-to-eat food from a restaurant or other food establishment to a customer's location.
 

@@ -1,5 +1,4 @@
-Emerging Trends in Chatbots and AI in Food Delivery
-================================================================================================================================
+
 
 In this chapter, we will discuss the future trends and directions of chatbots and AI in food delivery. The following are some emerging trends that are likely to shape the future of chatbots and AI in food delivery:
 

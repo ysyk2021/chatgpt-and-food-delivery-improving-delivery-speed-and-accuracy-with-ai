@@ -1,5 +1,4 @@
-Chapter 3: Introduction to ChatGPT
-==================================
+
 
 In this chapter, we will introduce ChatGPT and explore its features, advantages, and case studies in the context of food delivery.
 
