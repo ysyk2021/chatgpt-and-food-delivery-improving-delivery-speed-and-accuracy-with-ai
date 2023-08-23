@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss the first step in implementing ChatGPT in food delivery: planning and designing the chatbot for the specific needs of the business. The following are some key considerations when planning and designing ChatGPT for food delivery:
 
 Identify Key Functions

@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore how ChatGPT can be integrated with existing food delivery systems to improve delivery speed and accuracy. By seamlessly integrating ChatGPT with existing systems, food delivery services can leverage the power of AI to enhance customer experience and operational efficiency.
 
 Integration with Ordering Systems

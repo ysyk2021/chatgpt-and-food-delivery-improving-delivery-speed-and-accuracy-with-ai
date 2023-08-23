@@ -1,5 +1,4 @@
 
-
 Food delivery has become an integral part of our lives, with the convenience of having food delivered to our doorstep at any time. In this chapter, we will explore the history and evolution of food delivery, from its early beginnings to the present day.
 
 Early Beginnings

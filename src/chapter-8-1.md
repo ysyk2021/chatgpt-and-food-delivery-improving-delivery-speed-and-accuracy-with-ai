@@ -1,5 +1,4 @@
 
-
 In this book, we have discussed the use of ChatGPT and AI technology in the food delivery industry. The following are some key points discussed in this book:
 
 * ChatGPT is an advanced NLP model that can generate human-like responses to text-based queries.

@@ -1,5 +1,4 @@
 
-
 In this chapter, we will evaluate the performance and effectiveness of ChatGPT in food delivery services. We will review case studies and assess the impact of ChatGPT on customer experience and operational efficiency.
 
 Case Study: Domino's Pizza

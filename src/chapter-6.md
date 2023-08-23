@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss the implementation of ChatGPT in food delivery. This includes planning and designing ChatGPT for food delivery, integrating with existing food delivery systems, training ChatGPT, managing conversations, and evaluating its performance and effectiveness.
 
 Planning and Designing ChatGPT for Food Delivery

@@ -1,5 +1,4 @@
 
-
 In this chapter, we will focus on the personalization techniques used by ChatGPT to improve food delivery. Personalization is a critical aspect of providing an efficient and satisfying customer experience, and ChatGPT has proven to be highly effective in this regard.
 
 Personalization in ChatGPT

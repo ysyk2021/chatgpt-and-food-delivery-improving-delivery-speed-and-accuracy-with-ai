@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore case studies that demonstrate how ChatGPT can improve food delivery services. The following are examples of how ChatGPT has been implemented and its effectiveness in improving food delivery:
 
 Domino's Pizza

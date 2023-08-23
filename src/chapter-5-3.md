@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss how ChatGPT uses data to improve food delivery services. The following are examples of how ChatGPT uses data to enhance the customer experience and improve operational efficiency:
 
 Personalization

@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the different types of chatbots used in food delivery services. Chatbots can provide a range of benefits to food delivery services, including improved delivery speed and accuracy, enhanced customer experience, and increased operational efficiency.
 
 Rule-Based Chatbots
@@ -28,5 +27,4 @@ Voice-Enabled Chatbots
 Voice-enabled chatbots use voice recognition technology to enable customers to interact with the service using their voice. This can offer a more convenient and accessible experience for customers who may prefer to speak rather than type their inquiries.
 
 In conclusion, there are several types of chatbots used in food delivery services, each with their own strengths and limitations. By choosing the right type of chatbot for their needs, food delivery services can enhance customer experience, improve delivery speed and accuracy, and increase operational efficiency.
-
 
