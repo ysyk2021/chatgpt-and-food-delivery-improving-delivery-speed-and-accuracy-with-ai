@@ -10,3 +10,7 @@ Additionally, we will examine the potential legal implications of using these te
 Whether you are a food delivery business owner, food tech professional, or simply interested in the latest trends and challenges facing the food delivery industry today, this book offers a comprehensive overview of the potential of AI-driven conversations and how businesses can leverage this technology to drive innovation and success in their operations.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
