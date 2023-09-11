@@ -1,5 +1,4 @@
-Chapter: Case Studies on ChatGPT-Based Food Delivery
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore real-world case studies that showcase the application of ChatGPT in the food delivery industry. ChatGPT, powered by AI technology, has revolutionized the way businesses interact with customers and optimize their operations. This chapter aims to highlight successful implementations of ChatGPT in improving delivery speed, accuracy, and overall customer experience.
 

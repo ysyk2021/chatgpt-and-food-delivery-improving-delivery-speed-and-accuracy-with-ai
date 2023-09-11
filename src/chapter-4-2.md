@@ -1,5 +1,4 @@
-Chapter: The Features of ChatGPT
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the key features of ChatGPT that make it a valuable tool for improving delivery speed and accuracy in the food delivery industry. ChatGPT's powerful natural language processing capabilities and advanced AI algorithms enable it to automate and optimize customer interactions and order management processes. This chapter will delve into the key features that set ChatGPT apart and make it a valuable asset in the context of food delivery.
 

@@ -1,5 +1,4 @@
-Chapter: Advantages of Using ChatGPT in Food Delivery
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the advantages of using ChatGPT specifically for food delivery. ChatGPT's natural language processing capabilities provide a powerful tool for automating and optimizing customer interactions and order management, resulting in increased efficiency, improved accuracy, and enhanced customer satisfaction. This chapter will delve into the key benefits of using ChatGPT in the context of food delivery.
 

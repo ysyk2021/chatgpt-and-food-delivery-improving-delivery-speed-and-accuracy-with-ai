@@ -1,5 +1,4 @@
-Chapter: What is ChatGPT?
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the concept of ChatGPT and its significance in improving delivery speed and accuracy in the food delivery industry. ChatGPT is an AI-powered language model developed by OpenAI. It utilizes advanced natural language processing techniques to facilitate interactive and dynamic conversations with users. This chapter will delve into the underlying technology, capabilities, and potential applications of ChatGPT in food delivery.
 

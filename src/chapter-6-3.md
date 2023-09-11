@@ -1,5 +1,4 @@
-Chapter: Training ChatGPT and Managing Conversations for Food Delivery
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of training ChatGPT and managing conversations specifically tailored for food delivery. Training ChatGPT involves fine-tuning the model on domain-specific data to improve its understanding of food-related queries and optimize its responses. Additionally, managing conversations effectively is crucial to ensure smooth interactions and accurate outcomes. This chapter will delve into the steps involved in training ChatGPT and strategies for managing conversations in the context of food delivery.
 

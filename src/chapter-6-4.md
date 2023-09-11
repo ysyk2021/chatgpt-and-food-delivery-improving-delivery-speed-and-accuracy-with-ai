@@ -1,5 +1,4 @@
-Chapter: Evaluating ChatGPT's Performance and Effectiveness in Food Delivery
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will evaluate the performance and effectiveness of ChatGPT in improving delivery speed and accuracy in the food delivery industry. ChatGPT has the potential to revolutionize customer interactions, order management, and overall service quality. However, it is essential to assess its capabilities, limitations, and impact to understand its effectiveness in the context of food delivery. This chapter will delve into the key aspects of evaluating ChatGPT's performance.
 

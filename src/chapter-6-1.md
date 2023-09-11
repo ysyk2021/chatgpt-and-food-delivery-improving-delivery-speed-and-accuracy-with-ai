@@ -1,5 +1,4 @@
-Chapter: Planning and Designing ChatGPT for Food Delivery
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of planning and designing ChatGPT specifically for food delivery. Planning involves identifying the goals, defining the use cases, and assessing user needs. Designing involves selecting appropriate features, determining the conversational flow, and creating a user interface that caters to user expectations. This chapter will delve into the key considerations for planning and designing ChatGPT for food delivery.
 

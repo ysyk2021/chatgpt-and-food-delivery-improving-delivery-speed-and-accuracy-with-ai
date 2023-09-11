@@ -1,5 +1,4 @@
-Chapter: Case Studies Demonstrating ChatGPT's Effectiveness in Improving Food Delivery
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine real-world case studies that highlight the effectiveness of ChatGPT in improving delivery speed and accuracy in the food delivery industry. These case studies demonstrate how ChatGPT, with its advanced natural language processing capabilities, has enhanced customer experiences, streamlined operations, and contributed to overall business success.
 

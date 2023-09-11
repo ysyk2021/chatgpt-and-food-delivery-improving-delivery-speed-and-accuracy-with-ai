@@ -1,5 +1,4 @@
-Chapter: What is Food Delivery?
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the concept of food delivery and its significance in today's fast-paced world. Food delivery has transformed the way people access their favorite meals, providing convenience and accessibility like never before. This chapter aims to define food delivery, explain its various forms, and discuss its impact on the food industry and consumer behavior.
 

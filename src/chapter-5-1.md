@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Works in Food Delivery
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how ChatGPT, a powerful AI language model, can be applied to improve delivery speed and accuracy in the context of food delivery. ChatGPT combines advanced natural language processing with machine learning techniques to provide interactive and intelligent conversational experiences between customers and food delivery systems.
 

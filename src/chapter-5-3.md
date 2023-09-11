@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Uses Data to Improve Food Delivery
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how ChatGPT utilizes data to improve food delivery operations. Data plays a crucial role in optimizing delivery speed, accuracy, and overall customer experience. By leveraging AI technology and analyzing various data sources, ChatGPT enables businesses to make data-driven decisions and continuously enhance their food delivery processes.
 

@@ -1,5 +1,4 @@
-Chapter: Limitations and Challenges of Food Delivery
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the limitations and challenges associated with food delivery. While technology, such as ChatGPT, has revolutionized the industry, there are still several barriers that need to be addressed. It is essential to understand these limitations and challenges to implement effective solutions and ensure a seamless food delivery experience. This chapter will delve into the key challenges faced in the food delivery industry.
 

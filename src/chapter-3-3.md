@@ -1,5 +1,4 @@
-Chapter: Types of Chatbots Used in Food Delivery
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of chatbots used in food delivery. Chatbots are programmed to interact with customers through text or voice, providing an interactive and personalized experience. They can leverage artificial intelligence (AI) and natural language processing (NLP) to understand and respond to customer queries, ultimately improving delivery speed and accuracy.
 
